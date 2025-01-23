@@ -25,5 +25,5 @@ This project is an Angular application designed for managing employee data, allo
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/employee-management-angular-test.git
-   cd employee-management-angular
+   git clone  https://github.com/RahmaFarhat/employee-management-angular-test.git
+   cd employee-management-angular-test
