@@ -9,7 +9,7 @@ This project is an Angular application designed for managing employee data, allo
 
 ## Technologies
 - **Angular**: 12.2.18
-- **Node.js**: 22.13.1 (Note: This version is not supported by Angular 12)
+- **Node.js**: 22.13.1 
 - **npm**: 10.5.2
 
 ## Project Setup
